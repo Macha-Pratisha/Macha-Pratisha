@@ -18,7 +18,7 @@
 | Project | Description | Tech |
 |----------|--------------|------|
 | [MediConnect](https://github.com/Macha-Pratisha/MediConnect) | Real-time healthcare platform with AI suggestions | MERN + WebSocket + Google Translate API |
-| [Newspaper Agency Automation Software](https://github.com/Macha-Pratisha/EveryDayNews-Main) | Collaborative notes app with REST APIs | MERN Stack |
+| [Newspaper Agency Automation Software](https://github.com/Macha-Pratisha/EveryDayNews-Main) | Real-time newspaper subscription, billing, payments | MERN Stack + JWT security + Geolocation API |
 | [Sneakers Website](https://github.com/Macha-Pratisha/Shoes_Website_) | Responsive e-commerce platform | MERN Stack |
 
 ## 🏆 Achievements
